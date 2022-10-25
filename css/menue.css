@@ -1,0 +1,31 @@
+.fav-menue-bg-container{
+    background-image: url("https://img.freepik.com/free-photo/this-is-same-shoes_329181-1769.jpg?w=900&t=st=1665659684~exp=1665660284~hmac=d230121d29d8e8ddeda155217d5254b7f703231cb111fb325b70664749438586");
+    height: 100vh;
+    background-size: cover;
+    padding: 15px;
+}
+.fav-menue-card-container{
+    background-color:white;
+    height: 150px;
+    width:500px;
+    border-radius: 10px; 
+    margin: 25px;
+}
+.fav-menue-card-heading {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+    padding: 5px;
+  }
+  .fav-menue-card-disc{
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding: 5px;
+  }
+  .fav-menue-card-image{
+    height: 150px;
+    width: 200px;
+    padding: 5px;
+  }

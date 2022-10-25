@@ -1,0 +1,21 @@
+
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/laptop-shopping-bags-online-shopping-concept_1423-189.jpg?w=900&t=st=1665654575~exp=1665655175~hmac=5743314784e77125e645eac1547abacc41b7154b1a007b1fe9219b25e12b7148");
+    height: 100vh;
+    background-size: cover;
+}
+.bg-card{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.btn1{
+    height:36px;
+    width: 138px;
+    background-color: blue;
+    border-radius: 20px;
+    color: white;
+
+}
